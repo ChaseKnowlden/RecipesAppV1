@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/RecipeAppV1/static/css/main.c94d901d.chunk.css",
-    "main.js": "/RecipeAppV1/static/js/main.254a1a1f.chunk.js",
-    "main.js.map": "/RecipeAppV1/static/js/main.254a1a1f.chunk.js.map",
-    "runtime~main.js": "/RecipeAppV1/static/js/runtime~main.f6eedb3b.js",
-    "runtime~main.js.map": "/RecipeAppV1/static/js/runtime~main.f6eedb3b.js.map",
-    "static/css/2.266e55a5.chunk.css": "/RecipeAppV1/static/css/2.266e55a5.chunk.css",
-    "static/js/2.32effade.chunk.js": "/RecipeAppV1/static/js/2.32effade.chunk.js",
-    "static/js/2.32effade.chunk.js.map": "/RecipeAppV1/static/js/2.32effade.chunk.js.map",
-    "index.html": "/RecipeAppV1/index.html",
-    "precache-manifest.35c22f06f1ba5bf58b4625cba287bf72.js": "/RecipeAppV1/precache-manifest.35c22f06f1ba5bf58b4625cba287bf72.js",
-    "service-worker.js": "/RecipeAppV1/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/RecipeAppV1/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.c94d901d.chunk.css.map": "/RecipeAppV1/static/css/main.c94d901d.chunk.css.map"
+    "main.css": "/RecipesAppV1/static/css/main.c94d901d.chunk.css",
+    "main.js": "/RecipesAppV1/static/js/main.254a1a1f.chunk.js",
+    "main.js.map": "/RecipesAppV1/static/js/main.254a1a1f.chunk.js.map",
+    "runtime~main.js": "/RecipesAppV1/static/js/runtime~main.3384d3a5.js",
+    "runtime~main.js.map": "/RecipesAppV1/static/js/runtime~main.3384d3a5.js.map",
+    "static/css/2.266e55a5.chunk.css": "/RecipesAppV1/static/css/2.266e55a5.chunk.css",
+    "static/js/2.32effade.chunk.js": "/RecipesAppV1/static/js/2.32effade.chunk.js",
+    "static/js/2.32effade.chunk.js.map": "/RecipesAppV1/static/js/2.32effade.chunk.js.map",
+    "index.html": "/RecipesAppV1/index.html",
+    "precache-manifest.4f1cdb2a1145a9a634afc5658682e819.js": "/RecipesAppV1/precache-manifest.4f1cdb2a1145a9a634afc5658682e819.js",
+    "service-worker.js": "/RecipesAppV1/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/RecipesAppV1/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.c94d901d.chunk.css.map": "/RecipesAppV1/static/css/main.c94d901d.chunk.css.map"
   }
 }
