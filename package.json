@@ -2,7 +2,7 @@
   "name": "recipeapprj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://chaseknowlden.github.io/recipeapprj/",
+  "homepage": "http://ChaseKnowlden.github.io/RecipesAppV1/",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "react": "^16.8.6",
