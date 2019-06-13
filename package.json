@@ -4,8 +4,10 @@
   "private": true,
   "homepage": "http://chaseknowlden.github.io/recipeapprj/",
   "dependencies": {
+    "bootstrap": "^4.1.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {
